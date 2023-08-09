@@ -1,8 +1,6 @@
 # Foodies_finalAPP_v1
 
-This app can help enterprise to analysis if a business is suitable to open in different areas. 
-Users need to enter a ZipCode, then select a type of business, and specific types. Then the app will analysis if the business is suitable. There will be charts to show if the business will meet more of less competitions.
-Using data from Yelp.
+This app assists enterprises in analyzing the viability of opening a business in various locations. Users simply input a Zip Code, choose a business category, and specify the type. The app then determines the suitability of the business in that area, presenting visual charts that indicate potential competition levels, all based on data from Yelp
 
 - Using ReactJS for front-end, SpringBoot for Backend, MySQL for database
 
